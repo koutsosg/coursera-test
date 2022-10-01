@@ -1,1 +1,23 @@
 
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+    border-radius: 0%;
+    background-color: #c4c4c4;
+    color: black;
+    }
+    .navbar-brand{
+        font-size: 30px;	
+        }
+
+    .menu-items{
+        background-color: #c4c4c4;
+        color: black;
+ 
+    }
+    #navButton ul li a {
+        color: black;
+    }
